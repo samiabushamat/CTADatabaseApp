@@ -1,5 +1,5 @@
-# Overview: Python Application that has the user input a different number of command that do various number of tasks with the data
-# Sami Abushamat sabus3
+# Overview: Python Application that has the user input a different number of command that do various number of tasks with the CTA data
+# Sami Abushamat
 # 1/31/2024
 
 import sqlite3
